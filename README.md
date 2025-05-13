@@ -12,7 +12,7 @@ Il workshop è tenuto dal **Dott. Stefano Vittorio Porta**, postgraduate student
 
 # 👉️ Prenotazione 👈️
 
-Il workshop è gratuito e non richiede alcun pagamento. Tuttavia, è necessario registrarsi in anticipo per garantire un posto in presenza. Per registrarsi, è sufficiente compilare il modulo di registrazione disponibile al seguente link: [**Prenotazione**](https://app.hi.events/event/826/workshop-git-e-github).
+Il workshop è gratuito e non richiede alcun pagamento. Tuttavia, è necessario registrarsi in anticipo per garantire un posto in presenza e per assicurarci che riceviate le comunicazioni eventuali. Per registrarsi, è sufficiente compilare il modulo di registrazione disponibile al seguente link: [**Prenotazione**](https://app.hi.events/event/826/workshop-git-e-github).
 
 Se i posti in presenza sono esauriti, è possibile partecipare al workshop in modalità remota tramite il link di Google Meet che verrà fornito a tutti i partecipanti registrati.
 
