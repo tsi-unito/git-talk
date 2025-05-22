@@ -1,6 +1,6 @@
 # Laboratorio “Git & GitHub”
 **Dipartimento di Informatica – AA 2024/25**  
-_Data evento: **22/05/2025**, ore 16:00-18:00 (2 h)_  
+_L'evento si è svolto il **22/05/2025**, ore 16:00-18:00 (2 h)_  
 Luogo: **Laboratorio Turing, Dipartimento di Informatica, Via Pessinetto 12, Torino**
 
 > Il TSI e i rappresentanti di Universi.TO organizzano un workshop pratico per imparare a utilizzare Git e GitHub, strumenti fondamentali per chi lavora (o lavorerà!) nel mondo dell’informatica.
